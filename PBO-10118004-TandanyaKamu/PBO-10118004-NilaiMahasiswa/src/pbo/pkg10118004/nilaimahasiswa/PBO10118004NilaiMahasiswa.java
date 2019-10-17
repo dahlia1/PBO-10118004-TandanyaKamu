@@ -36,9 +36,7 @@ public class PBO10118004NilaiMahasiswa {
         System.out.println("\nIndeks = "+nilai.Indeks());
         System.out.println("Keterangan = "+nilai.aturanKeterangan());
         
-    }
     
-}
 
     }
     
